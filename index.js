@@ -1,6 +1,5 @@
 const { Client, RichEmbed, Collection } = require("discord.js");
 const { config } = require("dotenv"); 
-const token = process.env.token;
 
 const prefix = "_";
 
